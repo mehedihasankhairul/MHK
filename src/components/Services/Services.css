@@ -1,0 +1,109 @@
+/* Servives */
+.services {
+    background: snow;
+    padding: 100px 0;
+    color: #fff;
+  }
+
+
+  .serviceBg{
+      /* background: #0a040a ; */
+      background: #fffafa;
+  }
+  
+  .common {
+    width: 33.33333333333333%;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+    font-weight: 700;
+    color: #ff4a57;
+    font-size: 30px;
+  }
+  .mainHeader {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  .mainContent {
+    font-size: 16px;
+    color: #dfdfdf;
+  }
+  .commonBorder {
+    background: #ff4a57;
+    height: 3px;
+    width: 80px;
+    margin: 30px auto;
+  }
+  
+  .services__box {
+    padding: 12%;
+    background: rgb(12, 6, 19);
+    color: #fff;
+    margin: 20px;
+    transition: all 0.5s linear;
+    width: 80%;
+    margin-left: 10%;
+    /* height: 50%; */
+  }
+  .services__box:hover {
+    background: #1f2235;
+  }
+  .commonIcons {
+    font-size: 40px;
+    color: #ff4a57;
+    margin-bottom: 15px;
+  }
+  .services__box:hover .commonIcons {
+    color: #fff;
+  }
+  .services__box-header {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+  }
+  .services__box-p {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+  }
+  .about {
+    width: 100%;
+    background: red;
+    padding: 100px 0;
+  }
+  .about__img {
+    padding: 30px;
+  }
+  .about__img img {
+    width: 300px;
+    height: 400px;
+  }
+  .about__info {
+    color: #fff;
+  }
+  .about__info h1 {
+    margin-bottom: 30px;
+  }
+  .about__info-p1 {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .about__info-p2 {
+    font-size: 14px;
+  }
+  
+  .info__contacts {
+    margin-top: 20px;
+  }
+  .info__contacts strong {
+    color: #ff4a57;
+  }
+  .info__contacts p {
+    margin-top: 3px;
+  }
+  .info__contacts .col-6 {
+    margin: 10px 0;
+  }
