@@ -13,13 +13,13 @@ const Projects = () => {
             <div className="container mt-5">
                 <div className="row">
                     <div className="col-md-5">
-                        <a target="_blank" href="https://infallible-elion-e9be2e.netlify.app/"><img className="img-fluid" src={colorMe} /></a>
+                        <a target="_blank" href="https://service-center-cf745.web.app/"><img className="img-fluid" src={colorMe} /></a>
                     </div>
                     <div className="col-md-7  align">
                         <h3>ColorMe | Wall Service Provider
-                            | <a target="_blank" href="https://infallible-elion-e9be2e.netlify.app/"> <button className="btn-danger">Live Link </button></a>
-                            | <a target="_blank" href="https://github.com/ibrahimkhalilik748/Dhaka_Salon"> <button className="btn-danger"> Client</button> </a>
-                            | <a target="_blank" href="https://github.com/ibrahimkhalilik748/Dhaka_Salon_Server"> <button className="btn-danger"> Server</button> </a>
+                            | <a target="_blank" href="https://service-center-cf745.web.app/"> <button className="btn-danger">Live Link </button></a>
+                            | <a target="_blank" href="https://github.com/mehedihasankhairul/ColorMe-Client"> <button className="btn-danger"> Client</button> </a>
+                            | <a target="_blank" href="https://github.com/mehedihasankhairul/ColorMe-Server"> <button className="btn-danger"> Server</button> </a>
                         </h3>
                         <p><b>Technology : </b> React JS, MongoDB, firebase authentication, react-router, react hook form, Bootstrap, Node JS,
                         express, axios, Heroku, and hosted in firebase.</p>
@@ -37,13 +37,13 @@ const Projects = () => {
 
                 <div className="row">
                     <div className="col-md-5">
-                        <a target="_blank" href="https://dazzling-volhard-21d423.netlify.app/"><img className="img-fluid" src={halalValley} /></a>
+                        <a target="_blank" href="https://halal-valley.web.app/"><img className="img-fluid" src={halalValley} /></a>
                     </div>
                     <div className="col-md-7  align">
                         <h3> Halal Valley Shop
-                        | <a target="_blank" href="https://infallible-elion-e9be2e.netlify.app/"> <button className="btn-danger">Live Link </button></a>
-                        | <a target="_blank" href="https://github.com/ibrahimkhalilik748/Dhaka_Salon"> <button className="btn-danger"> Client</button> </a>
-                        | <a target="_blank" href="https://github.com/ibrahimkhalilik748/Dhaka_Salon_Server"> <button className="btn-danger"> Server</button> </a>
+                        | <a target="_blank" href="https://halal-valley.web.app/"> <button className="btn-danger">Live Link </button></a>
+                        | <a target="_blank" href="https://github.com/mehedihasankhairul/Halal-Valley-Shop-Client"> <button className="btn-danger"> Client</button> </a>
+                        | <a target="_blank" href="https://github.com/mehedihasankhairul/halal-valley-shop-server"> <button className="btn-danger"> Server</button> </a>
                         </h3>
                         <p><b>Technology : </b> React JS, MongoDB, firebase authentication, react-router, react hook form, Bootstrap, Node JS,
                         express, axios, Heroku, and hosted in firebase.</p>
@@ -59,12 +59,12 @@ const Projects = () => {
 
                 <div className="row">
                     <div className="col-md-5">
-                        <a target="_blank" href="https://upbeat-turing-dd050b.netlify.app/"><img className="img-fluid" src={teslaRider} /></a>
+                        <a target="_blank" href="https://tesla-rider.web.app/"><img className="img-fluid" src={teslaRider} /></a>
                     </div>
                     <div className="col-md-7  align">
                         <h3>Tesla Rider | Ride Sharing Web Application
                         | <a target="_blank" href="https://infallible-elion-e9be2e.netlify.app/"> <button className="btn-danger">Live Link </button></a>
-                            | <a target="_blank" href="https://github.com/ibrahimkhalilik748/Dhaka_Salon"> <button className="btn-danger"> Client</button> </a>
+                            | <a target="_blank" href="https://github.com/mehedihasankhairul/Leauge-Hunter-English-Footbal-Club"> <button className="btn-danger"> Client</button> </a>
                         </h3>
                         <p><b>Function : </b>HTML5, CSS3, JavaScript, ES6, Reactjs, React Router.</p>
                         <ul>

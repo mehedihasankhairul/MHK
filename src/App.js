@@ -5,6 +5,7 @@ import Header from './components/Home/MainHeader/Header';
 import Services from './components/Services/Services';
 import Projects from './components/Projects/Projects';
 import Contact from './components/ContactForm/ContactForm';
+import Blog from './components/Blog/Blog';
 
 
 function App() {
@@ -14,8 +15,8 @@ function App() {
       <Header></Header>
       <Services></Services>
       <Projects/>
+      <Blog></Blog>
       <Contact></Contact>
-     
     </div>
   );
 }

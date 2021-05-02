@@ -1,8 +1,8 @@
 import React from "react";
 import {
     FaFacebookF,
-    FaTwitter,
-    FaPinterest,
+    FaGithub,
+    FaLinkedin,
     FaPlay,
 } from "react-icons/fa";
 import TextAnimation from "../Animation/TextAnimation/TextAnimation";
@@ -36,13 +36,13 @@ const Header = () => {
                                     </div>
                                     <ul style={{ marginLeft: "80px" }} className="header__ul mt-2">
                                         <li>
-                                            <FaFacebookF className="headerIcon" />
+                                           <a href="https://www.facebook.com/mahedihasan.khairul"> <FaFacebookF className="headerIcon" /> </a>
                                         </li>
                                         <li>
-                                            <FaTwitter className="headerIcon" />
+                                        <a href="https://github.com/mehedihasankhairul"> <FaGithub className="headerIcon" /> </a>
                                         </li>
                                         <li>
-                                            <FaPinterest className="headerIcon" />
+                                        <a href="https://www.linkedin.com/in/mhkhairul/"> <FaLinkedin className="headerIcon" /> </a>
                                         </li>
                                     </ul>
                                 </div>
